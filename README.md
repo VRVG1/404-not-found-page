@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/VRVG1/404-not-found-page/blob/main/Demo-page.gif)
+![screenshot](https://raw.githubusercontent.com/VRVG1/404-not-found-page/main/Demo-page.gif)
 
 I used the Astro framework to develop a custom 404 error page using reusable components.
 
